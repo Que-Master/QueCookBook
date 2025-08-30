@@ -1,6 +1,6 @@
 # 🍲 QueCookBook+
 
-👨‍💻 Anibal Tapia y Adian Ramirez 
+👨‍💻 Anibal Tapia y Adrian Ramirez 
 
 Una app para organizar y consultar recetas de cocina de forma práctica y ordenada.
 El objetivo es guardar, buscar y clasificar recetas personales, evitando que se pierdan en papeles o chats.

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="App.Chip" parent="Widget.Material3.Chip.Filter">
+    <item name="chipBackgroundColor">?attr/colorSurfaceVariant</item>
+    <item name="android:textColor">?attr/colorOnSurface</item> </style>
+</resources>

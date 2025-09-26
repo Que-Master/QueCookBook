@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">QueCookBook+</string>
+
+    <string name="title_recetas">Recetas</string>
+    <string name="buscar_hint">Buscar receta</string>
+
+    <string name="cat_todas">Todas</string>
+    <string name="cat_postres">Postres</string>
+    <string name="cat_rapidas">Rápidas</string>
+    <string name="cat_veggie">Veggie</string>
+
+    <string name="receta_pan_queso">Pan de queso</string>
+    <string name="cd_receta_pan_queso">Foto de la receta Pan de queso</string>
+    <string name="img_pan_queso">Pan con queso</string>
+
+    <string name="cd_portada_receta">Portada de la receta</string>
+    <string name="section_ingredientes">Ingredientes</string>
+    <string name="section_preparacion">Preparación</string>
+    <string name="cd_receta_destacada">Ingredientes</string>
+    <string name="section_explorar">Preparación</string>
+
+    <string name="cd_imagen_receta">Imagen de la receta</string>
+    <string name="titulo_receta">Título de la receta</string>
+    <string name="elegir_imagen">Elegir imagen</string>
+    <string name="ingredientes">Ingredientes</string>
+    <string name="porciones">Porciones</string>
+    <string name="tiempo_min">Tiempo (min)</string>
+    <string name="pasos">Pasos</string>
+    <string name="agregar_paso">Agregar paso</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="receta_titulo_placeholder">Nombre de la receta</string>
+
+    <string name="panel_admin">Panel de Administrador</string>
+    <string name="cd_toolbar_admin">Barra de herramientas del administrador</string>
+    <string name="crear_receta">Crear receta</string>
+    <string name="editar_recetas">Editar recetas</string>
+    <string name="eliminar_recetas">Eliminar recetas</string>
+    <string name="cd_crear">Crear nueva receta</string>
+    <string name="cd_editar">Editar recetas existentes</string>
+    <string name="cd_eliminar">Eliminar recetas</string>
+
+    <string name="register_title">Crear cuenta</string>
+    <string name="full_name">Nombre completo</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="create_account">Crear cuenta</string>
+    <string name="cancel">Cancelar</string>
+
+    <string name="seleccionar_receta">Seleccionar receta</string>
+    <string name="receta_demo_titulo">Nombre de la receta</string>
+    <string name="receta_demo_subtitulo">2 porciones • 30 min</string>
+    <string name="eliminar_paso">Eliminar paso</string>
+
+    <string name="eliminar_receta">Eliminar receta</string>
+    <string name="confirma_borrado_msg">¿Seguro que deseas borrar esta receta? Esta acción no se puede deshacer.</string>
+    <string name="borrar">Borrar</string>
+
+</resources>

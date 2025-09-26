@@ -77,7 +77,7 @@ View Components → RecyclerView, CardView, EditText, ImageView, Buttons.
 
 Opcional → Notificación local para “receta del día”.
 
-QueCookBook+ — Guía de instalación y ejecución (proyecto tal cual recibido)
+# 🛠️QueCookBook+ — Guía de instalación y ejecución
 
 Esta guía explica desde cero cómo obtener, abrir y ejecutar el proyecto que me proporcionaste (sin modificaciones extra ni ciclos de vida añadidos).
 
